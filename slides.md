@@ -341,4 +341,21 @@
 
 ---
 
+## Conclusão
+
+- **Síntese da Apresentação:**  
+    - Jogos tradicionais podem ser **base para criações inovadoras** no desenvolvimento de novos jogos.
+
+- **Exemplos apresentados:**  
+    - **Blackjack Arcano** → foco na **estratégia individual**
+    - **Bravata** → foco na **competição em grupo**  
+
+- **Ponto em comum:**  
+    - Ambos buscam o **equilíbrio entre**:  
+        - 🎲 **Sorte**  
+        - 🧠 **Habilidade**  
+        - 🎉 **Entretenimento**
+
+---
+
 Obrigado pela atenção!
