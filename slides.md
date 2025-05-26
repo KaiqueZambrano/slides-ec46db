@@ -5,6 +5,7 @@
 ---
 
 ## Introdução
+
 - Criação de **jogos de cartas autorais**, explorando e reinterpretando mecânicas clássicas.
 - Inspirações:
     - Blackjack
@@ -14,7 +15,7 @@
     - **Blackjack Arcano:** releitura solo, estratégica e dinâmica do blackjack.
     - **Bravata:** jogo competitivo em duplas com foco em estratégia e risco.
 
---- 
+---
 
 ## Objetivo
 
